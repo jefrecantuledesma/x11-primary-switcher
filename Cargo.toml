@@ -1,0 +1,11 @@
+[package]
+name = "x11-primary-switcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.5.48"
+notify-rust = "4.11.7"
+regex = "1.11.2"
+serde = "1.0.226"
+serde_json = "1.0.145"
